@@ -3,7 +3,6 @@ INDEX VERSION 1.134+D:\study\study\devops\sample project\.metadata\.plugins\org.
 465448450.index
 1121583195.index
 546725805.index
-3591476387.index
 1318784351.index
 1783428086.index
 1920885373.index
