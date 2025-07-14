@@ -1,0 +1,3 @@
+FROM openjdk:17-jdk-slim
+ADD target/deploy.jar deploy.jar
+EntryPoint["java","-jar","/deploy.jar"]

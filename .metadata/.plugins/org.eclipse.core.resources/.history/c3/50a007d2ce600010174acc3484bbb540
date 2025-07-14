@@ -1,0 +1,3 @@
+Form openjdk:17 
+ADD target/deploy.jar deploy.jar
+EntryPoint["java","-jar","/deploy.jar"]
